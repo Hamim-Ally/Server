@@ -1,0 +1,24 @@
+/* -------------------------------------------
+
+Name: 		Corey
+Author:		Nazar Miller (millerDigitalDesign)
+Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
+
+p.s. I am available for Freelance hire (UI design, web development). mail: miller.themes@gmail.com
+
+------------------------------------------- */
+
+.color {
+    color: hsla(57.26, 97.78%, 40.53%, 1)
+}
+
+.crumb,
+.footer-brand,
+.button-sbscrb,
+.skillbar-bar,
+.plus,
+.button-1,
+.contact-us,
+.navbar-brand {
+    background: #242424cc;
+}

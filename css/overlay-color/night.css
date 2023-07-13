@@ -1,0 +1,38 @@
+/* -------------------------------------------
+
+Name: 		Corey
+Author:		Nazar Miller (millerDigitalDesign)
+Portfolio:  https://themeforest.net/user/millerdigitaldesign/portfolio?ref=MillerDigitalDesign
+
+p.s. I am available for Freelance hire (UI design, web development). mail: miller.themes@gmail.com
+
+------------------------------------------- */
+.footer,
+.preloader {
+   background:
+        linear-gradient(70deg, hsla(238.87, 23.46%, 15.1%, 1) 0%, hsla(238.87, 23.46%, 15.1%, 0) 70%),
+        linear-gradient(58deg, hsla(237.37, 19.84%, 39.11%, 1) 10%, hsla(237.37, 19.84%, 39.11%, 0) 80%),
+        linear-gradient(315deg, hsla(241.13, 30.62%, 22.3%, 1) 15%, hsla(241.13, 30.62%, 22.3%, 0) 80%),
+        linear-gradient(245deg, hsla(243.4, 44.93%, 20.65%, 1) 100%, hsla(243.4, 44.93%, 20.65%, 0) 70%);
+}
+
+.header-2 .overlay,
+.modal,
+header .overlay{
+    background:
+        linear-gradient(70deg, hsla(238.87, 23.46%, 15.1%, .6) 0%, hsla(238.87, 23.46%, 15.1%, 0) 70%),
+        linear-gradient(58deg, hsla(237.37, 19.84%, 39.11%, .6) 10%, hsla(237.37, 19.84%, 39.11%, 0) 80%),
+        linear-gradient(315deg, hsla(241.13, 30.62%, 22.3%, .6) 15%, hsla(241.13, 30.62%, 22.3%, 0) 80%),
+        linear-gradient(245deg, hsla(243.4, 44.93%, 20.65%, .6) 100%, hsla(243.4, 44.93%, 20.65%, 0) 70%);
+}
+
+.pagination-frame .overlay,
+.testimonials .overlay,
+.stats .overlay,
+.description-frame{
+    background:
+        linear-gradient(70deg, hsla(238.87, 23.46%, 15.1%, .9) 0%, hsla(238.87, 23.46%, 15.1%, 0) 70%),
+        linear-gradient(58deg, hsla(237.37, 19.84%, 39.11%, .9) 10%, hsla(237.37, 19.84%, 39.11%, 0) 80%),
+        linear-gradient(315deg, hsla(241.13, 30.62%, 22.3%, .9) 15%, hsla(241.13, 30.62%, 22.3%, 0) 80%),
+        linear-gradient(245deg, hsla(243.4, 44.93%, 20.65%, .9) 100%, hsla(243.4, 44.93%, 20.65%, 0) 70%);
+}
