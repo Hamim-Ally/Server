@@ -27,10 +27,12 @@
 .fs-36 {
     font-size: 48px;
 }
-
+.fs-14{font-size: 14px !important;}
 .mb-20 {
     margin-bottom: 20px;
 }
+
+
 
 html {
     scrollbar-width: none;
